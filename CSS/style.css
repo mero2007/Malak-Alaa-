@@ -1,0 +1,40 @@
+.navbar{
+    /* border-bottom: 5px solid rgb(0, 94, 255); */
+    box-shadow: 0 2px 7px rgb(216, 11, 89);
+}
+
+
+header{
+    min-height: 100vh;
+    /* background:linear-gradient(rgba(255, 166, 0, 0.3) , rgba(255, 166, 0, 0.3)) , url(../images/head_bg.jpg); */
+    background: url(../images/new\ cctv.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.header-text{
+    text-align: center;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50% , -50%);
+}
+#about h5{
+    letter-spacing: 5px;
+}
+#about img{
+    min-height: 100%;
+}
+.section-text{
+    min-height: 50vh;
+    /* background:linear-gradient(rgba(255, 166, 0, 0.3) , rgba(255, 166, 0, 0.3)) , url(../images/head_bg.jpg); */
+    background: url(../images/new\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.section-py-5{
+    min-height: 50vh;
+    background: url(../images/conta.jpg);
+    background-position: center;
+    background-size: cover;
+}
